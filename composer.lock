@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3c34e19a22ec2d307e2a1c128267715d",
+    "content-hash": "a0104a5b3c20cd5e1937ea0638a5b841",
     "packages": [
         {
             "name": "delos/framework",
