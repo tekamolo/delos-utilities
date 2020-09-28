@@ -1,0 +1,15 @@
+{
+    "name": "delos/utilities",
+    "description": "library providing classes for filtering and other helpers",
+    "authors": [
+        {
+            "name": "Alfonso Fernandez",
+            "email": "fernandez1980@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "illuminate/database": "^5.8",
+        "delos/framework": "^0.1.18"
+    }
+}
