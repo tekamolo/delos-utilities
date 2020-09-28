@@ -8,7 +8,6 @@
         }
     ],
     "license": "MIT",
-    "minimum-stability": "stable",
     "require": {
         "illuminate/database": "^5.8",
         "delos/framework": "^0.1"
