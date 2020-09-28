@@ -7,9 +7,15 @@
             "email": "fernandez1980@gmail.com"
         }
     ],
+    "license": "MIT",
     "minimum-stability": "stable",
     "require": {
         "illuminate/database": "^5.8",
         "delos/framework": "^0.1.18"
+    },
+    "autoload": {
+        "psr-4": {
+            "Delos\\Utilities\\": "Utilities/"
+        }
     }
 }
