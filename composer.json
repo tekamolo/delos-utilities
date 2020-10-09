@@ -10,8 +10,7 @@
     "license": "MIT",
     "minimum-stability": "stable",
     "require": {
-        "illuminate/database": "^5.8",
-        "delos/framework": ">=0.1"
+        "illuminate/database": "^5.8"
     },
     "autoload": {
         "psr-4": {
